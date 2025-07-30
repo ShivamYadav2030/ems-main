@@ -24,4 +24,4 @@ A simple and efficient Employee Management System built using React.js and local
 git clone https://github.com/your-username/employee-management-system.git
 cd employee-management-system
 
-<img width="1898" height="872" alt="image" src="https://github.com/user-attachments/assets/69e6e01e-6518-419c-9b88-20e576108aa3" />
+
